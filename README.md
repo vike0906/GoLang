@@ -1,2 +1,2 @@
 # GoLang
-some project with go
+study
